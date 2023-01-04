@@ -11,49 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Computer Science, University of Southern California, 2021-2023
+  * Specialized in Game Development
+* B.S. in Computer Science, Southern Methodist University, 2017-2021
+  * Specialized in AI and Machine Learning
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Game Client Engineer Intern, Lilith Games, Summer 2022
+  * Worked on the title [Farlight 84](https://farlight84.farlightgames.com/)
+  * Tech stack: Unreal 4, Lua, UI, UE Blueprint
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Teaching Assistant, Fall 2019 - Spring 2021
+  * SMU Lyle School of Engineering
+  * Course taught: Intro to Engineering
