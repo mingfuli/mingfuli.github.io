@@ -10,14 +10,11 @@ redirect_from:
 
 Hello! My name is Mingfu Li. I'm a Game Programmer interested in Gameplay and AI. 
 
-  
-
-
 Featured Projects
 ======
 Farlight 84
 ------
-Lorem ipsum.
+![banner](/images/farlight84.jpg)
 
 <!-- A data-driven personal website
 ======
