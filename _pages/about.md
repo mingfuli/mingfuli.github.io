@@ -14,7 +14,11 @@ Featured Projects
 ======
 Farlight 84
 ------
-![banner](/images/farlight84.jpg)
+{% include base_path %}
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
 
 <!-- A data-driven personal website
 ======
