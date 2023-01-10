@@ -15,7 +15,7 @@ Game Client Engineer Intern, Lilith Games, Summer 2022
   * Worked on the title [Farlight 84](https://farlight84.farlightgames.com/)
   * Tech stack: Unreal 4, Lua, UI, UE Blueprint
 
-Teaching Assistant, Fall 2019 - Spring 2021
+Teaching Assistant, Fall 2019 - Spring 2020
   * SMU Lyle School of Engineering
   * Course taught: Intro to Engineering
 

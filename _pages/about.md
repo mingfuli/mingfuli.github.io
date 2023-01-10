@@ -12,8 +12,6 @@ Hello! My name is Mingfu Li. I'm a Game Programmer interested in Gameplay and AI
 
 Featured Projects
 ======
-Farlight 84
-------
 {% include base_path %}
 
 {% for post in site.portfolio %}
