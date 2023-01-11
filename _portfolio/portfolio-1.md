@@ -1,7 +1,11 @@
 ---
 title: "Farlight84"
-excerpt: "<img src='/images/farlight84.jpg'>Short description of portfolio item number 1<br/>"
+excerpt: "<img src='/images/farlight84.jpg'><br/><i>Game Client Engineer Intern / Unreal 4 / Shipped to PC & Mobile<i>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+### Official Trailer
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/cVZi1ZLV_6Q">
+</iframe>
