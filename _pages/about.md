@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Mingfu Li. I'm a Game Programmer interested in Gameplay and AI. 
+Hello! My name is Mingfu Li. I'm a Game Programmer interested in Gameplay and AI. <br><br>
 
 Featured Projects
 ======
