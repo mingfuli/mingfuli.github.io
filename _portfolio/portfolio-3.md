@@ -21,4 +21,4 @@ C++, Prime Engine, Visual Studio, Lua
     
 ### Path Smoothing
 <img src='/images/navmesh_upath.png'>
-* Used funnel algorithm to smooth paths
+* Implemented funnel algorithm to smooth paths
