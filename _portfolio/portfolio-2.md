@@ -1,6 +1,6 @@
 ---
 title: "Grandma Green"
-excerpt: "<img src='/images/ggbanner_1.jpg'><br/>Gameplay AI Engineer / Unity / Coming to Mobile"
+excerpt: "<img src='/images/ggbanner_1.jpg'><br/><i>Gameplay AI Engineer / Unity / Coming to Mobile<i>"
 collection: portfolio
 ---
 
@@ -12,3 +12,19 @@ collection: portfolio
 
 Grandma Green is a indie mobile game developed by a team of ~20 USC students. Currently, the game is in the alpha stage. I am a Gameplay/AI Engineer in the team, where I mainly worked on the AI system and behaviors for our in-game plant friends. 
 
+### Tech Stack
+Unity, C#, Behavior Tree, State Machine
+
+### Pre-Alpha Golems Demo
+<iframe width="480" height="270"
+src="https://www.youtube.com/embed/lItFx8d5-UM">
+</iframe>
+
+* Created the Golem system which includes spawning, evolution, and data saving so on
+* Collaborated with artists to build our 2d asset pipeline, from importing to rigging & animation
+
+### Driven by Behavior Tree
+<img src='/images/npbehave_window.png'><br/>
+
+* Implemented Golems' interaction and behaviors using behavior tree
+* Incorporated and maintained AI tools in our project
