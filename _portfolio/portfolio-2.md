@@ -20,7 +20,7 @@ Unity, C#, Behavior Tree, State Machine
 src="https://www.youtube.com/embed/lItFx8d5-UM">
 </iframe>
 
-* Created the Golem system which includes spawning, evolution, and data saving so on
+* Created the Golem system which includes spawning, evolution, and data management
 * Collaborated with artists to build our 2d asset pipeline, from importing to rigging & animation
 
 ### Driven by Behavior Tree
