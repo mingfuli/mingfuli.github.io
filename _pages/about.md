@@ -14,7 +14,7 @@ Featured Projects
 ======
 {% include base_path %}
 
-{% for post in site.portfolio %}
+{% for post in site.portfolio limit:3 %}
   {% include archive-single.html %}
 {% endfor %}
 
