@@ -10,7 +10,7 @@ collection: portfolio
     </center>
 </body>
 
-Grandma Green is a indie mobile game developed by a team of ~20 USC students. Currently, the game is in the alpha stage. I am a Gameplay/AI Engineer in the team, where I mainly worked on the AI system and behaviors for our in-game plant friends. 
+Grandma Green is a 2D simulation game developed by a team of ~20 USC students. Currently, the game is in the alpha stage. I am a Gameplay/AI Engineer in the team, where I mainly worked on the AI system and behaviors for our in-game plant friends. 
 
 ### Tech Stack
 Unity, C#, Behavior Tree, State Machine

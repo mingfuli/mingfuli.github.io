@@ -1,6 +1,6 @@
 ---
 title: "NavMesh Pathfinder Tech Demo "
-excerpt: "<img src='/images/navmesh_banner.png'><br/><i>Solo Developer / C++ / Visual Studio / PC <i>"
+excerpt: "<img src='/images/navmesh_banner.png'><br/><i>Solo Developer / C++ / Custom Engine<i>"
 author_profile: false
 collection: portfolio
 ---
