@@ -11,10 +11,13 @@ collection: portfolio
 src="https://www.youtube.com/embed/cVZi1ZLV_6Q">
 </iframe>
 
-Farlight 84 is a shooter game developed by Lilith Games using **Unreal Engine 4**. The game launch on mobile in 2022 and will launch on PC soon. I was a Game Client Engineer Intern in the team from May 2022 to Aug 2022. During my internship, I mainly worked on live content support.
+Farlight 84 is a shooter game developed and published by Lilith Games. The game launch on mobile in 2022 and will launch on PC soon. I was a Game Client Engineer Intern in the team. During my internship, I mainly worked on live content support.
 
 ### Tech Stack
 Unreal 4, Lua, UI, UE Blueprint, UE UMG
+
+### Development Time
+May 2022 to Aug 2022 (3 months)
 
 ### Weapon Inventory
 <img src='/images/farlight_weapon1_small.png'>
@@ -27,4 +30,4 @@ Unreal 4, Lua, UI, UE Blueprint, UE UMG
 
 <img src='/images/farlight_roomsearch_small.png'>
 * Implemented sorting and filtering rules for custom room and match room
-* Developed search and creation features for custom room and match room
+* Developed searching features for custom room and match room

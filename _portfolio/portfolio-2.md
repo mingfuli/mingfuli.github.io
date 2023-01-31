@@ -15,6 +15,9 @@ Grandma Green is a 2D simulation game developed by a team of ~20 USC students. C
 ### Tech Stack
 Unity, C#, Behavior Tree, State Machine
 
+### Development Time
+Sep 2022 - Present
+
 ### Pre-Alpha Golems Demo
 <iframe width="480" height="270"
 src="https://www.youtube.com/embed/lItFx8d5-UM">

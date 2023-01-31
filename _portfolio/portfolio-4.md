@@ -5,11 +5,12 @@ author_profile: false
 collection: portfolio
 ---
 
-### Overview
-These technical demos are built in [Prime Engine](https://sites.google.com/site/artemscode/primeengine) (a custom engine developed by Artem Kovalovs).
-
 ### Tech Stack
 C++, Visual Studio, DirectX 11, 3D Graphics and Physics
+These technical demos are built in [Prime Engine](https://sites.google.com/site/artemscode/primeengine) (a custom engine developed by Artem Kovalovs).
+
+### Development Time
+Aug 2022 - Nov 2022 (3 months)
 
 ### 3D Physics and Collision
 <iframe width="480" height="270"
