@@ -5,14 +5,14 @@ author_profile: false
 collection: portfolio
 ---
 
-<img src='/images/rasterizer-banner.png'>
+### Overview
 This is a customized CPU graphics library which supports rasterization, three shading modes, texturing and Anti-Aliasing.
 
 ### Tech Stack
 C++, 3D Graphics, Visual Studio, Windows APIs
 
 ### Development Time
-Aug-Nov 2021 (3 month)
+Aug - Nov 2021 (3 month)
 
 ### Rasterization
 <img src='/images/rasterizer-shader.png'>
