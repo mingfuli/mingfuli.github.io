@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, and welcome to Mingfu's website!"
+title: "Hello, this is Mingfu!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-A Game Programmer specialized in Gameplay and AI.  
+A Game Programmer specialized in Gameplay and AI  
 A MS Computer Science (Game Dev) student at USC  
-Interned @ Lilith Games <br><br>
+Interned @Lilith Games <br><br><br>
 
 Featured Projects
 ======
