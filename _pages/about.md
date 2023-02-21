@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Hello, and welcome to Mingfu's website!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Mingfu Li. I'm a Game Programmer interested in Gameplay and AI. <br><br>
+A Game Programmer specialized in Gameplay and AI.  
+A MS Computer Science (Game Dev) student at USC  
+Interned @ Lilith Games <br><br>
 
 Featured Projects
 ======
