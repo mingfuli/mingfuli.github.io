@@ -12,7 +12,7 @@ redirect_from:
 - A Game Programmer specialized in Gameplay and AI<br>  
 - A MS Computer Science (Game Dev) student at USC<br>
 - Interned @Lilith Games
-</div><br><br>
+</div><br>
 
 Featured Projects
 ------
@@ -23,7 +23,7 @@ Featured Projects
 {% endfor %}
 
   
-[More](/projects/){: .btn--large}
+[More](/projects/){: .btn}
 
 <!-- A data-driven personal website
 ======
