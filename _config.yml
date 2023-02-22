@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mingfu Li's Website"
+title                    : "Mingfu Li"
 title_separator          : "-"
 name                     : &name "Mingfu Li"
 description              : &description "personal description"

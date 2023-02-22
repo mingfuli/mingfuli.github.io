@@ -22,7 +22,7 @@ Featured Projects
   {% include archive-single.html %}
 {% endfor %}
 
-<a href="/projects/" class="btn btn--big">More</a>
+<a href="/projects/" class="btn btn--x-large">More</a>
 
 <!-- A data-driven personal website
 [More](/projects/){: .btn}
