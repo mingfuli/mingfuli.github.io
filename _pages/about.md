@@ -15,7 +15,7 @@ redirect_from:
 </div><br><br>
 
 Featured Projects
-======
+------
 {% include base_path %}
 
 {% for post in site.portfolio limit:3 %}
@@ -23,7 +23,7 @@ Featured Projects
 {% endfor %}
 
   
-[More](/projects/){: .btn}
+[More](/projects/){: .btn--large}
 
 <!-- A data-driven personal website
 ======
