@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<p class="h3">
+<subtitle>
 - A Game Programmer specialized in Gameplay and AI<br>  
 - A MS Computer Science (Game Dev) student at USC<br>
 - Interned @Lilith Games
-</p><br>
+</subtitle><br>
 
 Featured Projects
 ------
