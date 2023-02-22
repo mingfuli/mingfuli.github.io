@@ -26,7 +26,7 @@ subtitle {
   padding: 0;
   color: $text-color;
   font-family: $global-font-family;
-  font-size: $type-size-5;
+  font-size: $type-size-4;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -199,7 +199,7 @@ figure {
   img,
   iframe,
   .fluid-width-video-wrapper {
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
   }
 
   img {
