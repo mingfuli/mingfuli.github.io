@@ -6,7 +6,7 @@ collection: portfolio
 ---
 
 ### Tech Stack
-C++, Visual Studio, DirectX 11, 3D Graphics and Physics
+C++, Visual Studio, DirectX 11, 3D Graphics and Physics  
 These technical demos are built in [Prime Engine](https://sites.google.com/site/artemscode/primeengine) (a custom engine developed by Artem Kovalovs).
 
 ### Development Time
