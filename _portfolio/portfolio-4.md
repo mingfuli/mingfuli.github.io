@@ -1,37 +1,25 @@
 ---
-title: "Game Engine Development"
-excerpt: "<img src='/images/gameengine_banner.png'><br/><i>Solo Developer / C++ / Custom Engine<i>"
+title: "Project: Weapon Master"
+excerpt: "<img src='/images/project_mp_banner.png'><br/><i>Gameplay AI Engineer / C# / Unity<i>"
 author_profile: false
 collection: portfolio
 ---
 
+<iframe width="480" height="270"
+    src="https://www.youtube.com/embed/26ij_otV9c8">
+</iframe>
+
+Project: Weapon Master is a 3D action-adventure game developed by a team of 6. I am one of the two Engineers in the team and collaborate with four composors from Berklee College of Music. Currently, our game just passed the pre-production stage where we created the 3C of our game and a "beautiful corner" of the fantasy world. Stay tuned for more information!
+
 ### Tech Stack
-C++, Visual Studio, DirectX 11, 3D Graphics and Physics
-These technical demos are built in [Prime Engine](https://sites.google.com/site/artemscode/primeengine) (a custom engine developed by Artem Kovalovs).
+Unity, C#, Behavior Tree, Navmesh
 
 ### Development Time
-Aug 2022 - Nov 2022 (3 months)
+Jan 2023 - Present
 
-### 3D Physics and Collision
-<iframe width="480" height="270"
-src="https://www.youtube.com/embed/SryMYZlaygs">
-</iframe>
+### Gameplay 
+* Developing the mechanism, physics and movement of our uniquely designed weapon
+* Designed a scalable and data-driven system for our key-lock mechanism in the dunganon 
 
-* Developed 3D physics component with collision detection and gravity
-* Implemented sphere collider for characters and AABB collider for static objects
-
-### View Fustum Culling
-<iframe width="480" height="270"
-src="https://www.youtube.com/embed/9NLnsgOIQcI">
-</iframe>
-
-* Created view fustum component for the camera
-* Performed intersection tests between view fustum and AABB of objects
-
-### Wind Shader
-<iframe width="480" height="270"
-src="https://www.youtube.com/embed/ISrmnJjMNjQ">
-</iframe>
-
-* In this demo, I added wind source to camera and two soliders. We can see wind deformation become strongly when solider/camera are close to the meshes. 
-* I passed texture coordination into the DirectX 11 rendering pipepline and modified its vertex shader to achieve deformation.
+### AI
+* Implementing enemies’ navigation, combat, and behaviors

@@ -1,27 +1,37 @@
 ---
-title: "CPU Graphics Rendering Library"
-excerpt: "<img src='/images/rasterizer-banner.png'><br/><i>Solo Developer / C++ / 3D Graphics Pipeline<i>"
+title: "Game Engine Development"
+excerpt: "<img src='/images/gameengine_banner.png'><br/><i>Solo Developer / C++ / Custom Engine<i>"
 author_profile: false
 collection: portfolio
 ---
 
-### Overview
-This is a customized CPU graphics library which supports rasterization, three shading modes, texturing and Anti-Aliasing.
-
 ### Tech Stack
-C++, 3D Graphics, Visual Studio, Windows APIs
+C++, Visual Studio, DirectX 11, 3D Graphics and Physics
+These technical demos are built in [Prime Engine](https://sites.google.com/site/artemscode/primeengine) (a custom engine developed by Artem Kovalovs).
 
 ### Development Time
-Aug - Nov 2021 (3 month)
+Aug 2022 - Nov 2022 (3 months)
 
-### Rasterization
-<img src='/images/rasterizer-shader.png'>
-<center><small>Gouraud shading vs Phong shading</small></center>
-* Implemented transform matrix queue which supports local-world-view-projection-screen space transformation
-* Incorporated flat, Gouraud, and Phong shading into the rendering library
-    
-### Texture and Anti-Aliasing
-<img src='/images/rasterizer-aa.png'>
-<center><small>Before SSAA vs After SSAA</small></center>
-* Implemented image and procedural texturing with prospective correction
-* Developed Supersampling Anti-Aliasing (SSAA) using Jitter algorithm
+### 3D Physics and Collision
+<iframe width="480" height="270"
+src="https://www.youtube.com/embed/SryMYZlaygs">
+</iframe>
+
+* Developed 3D physics component with collision detection and gravity
+* Implemented sphere collider for characters and AABB collider for static objects
+
+### View Fustum Culling
+<iframe width="480" height="270"
+src="https://www.youtube.com/embed/9NLnsgOIQcI">
+</iframe>
+
+* Created view fustum component for the camera
+* Performed intersection tests between view fustum and AABB of objects
+
+### Wind Shader
+<iframe width="480" height="270"
+src="https://www.youtube.com/embed/ISrmnJjMNjQ">
+</iframe>
+
+* In this demo, I added wind source to camera and two soliders. We can see wind deformation become strongly when solider/camera are close to the meshes. 
+* I passed texture coordination into the DirectX 11 rendering pipepline and modified its vertex shader to achieve deformation.

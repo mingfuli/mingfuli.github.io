@@ -23,7 +23,7 @@ Sep 2022 - Present
 src="https://www.youtube.com/embed/lItFx8d5-UM">
 </iframe>
 
-* Created the Golem system which includes spawning, evolution, and data management
+* Created the Golem system which includes spawning, evolution, and emotion
 * Collaborated with artists to build our 2d asset pipeline, from importing to rigging & animation
 
 ### Driven by Behavior Tree
