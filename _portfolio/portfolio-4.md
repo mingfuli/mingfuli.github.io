@@ -1,6 +1,6 @@
 ---
 title: "Project: Weapon Master"
-excerpt: "<img src='/images/mp_screenshot_banner.png'><br/><i>Gameplay AI Engineer / C# / Unity<i>"
+excerpt: "<img src='/images/project_mp_banner.png'><br/><i>Gameplay AI Engineer / C# / Unity<i>"
 author_profile: false
 collection: portfolio
 ---
