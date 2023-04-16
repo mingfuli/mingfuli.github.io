@@ -4,13 +4,17 @@
 
 .archive {
   margin-bottom: 2em;
+  display: flex; /* Add this line to enable flexbox */
+  justify-content: center; /* Add this line to center the flex items */
+  align-items: center; /* Add this line to vertically center the flex items */
+  
 
   @include breakpoint($medium) {
     @include span(12 of 12);
   }
 
   @include breakpoint($large) {
-    @include span(12 of 12 last);
+    @include span(10 of 12 last);
     @include prefix(0.5 of 12);
   }
 
