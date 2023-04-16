@@ -7,7 +7,7 @@
   display: flex; /* Add this line to enable flexbox */
   justify-content: center; /* Add this line to center the flex items */
   align-items: center; /* Add this line to vertically center the flex items */
-  
+  flex-direction: column;
 
   @include breakpoint($medium) {
     @include span(12 of 12);
