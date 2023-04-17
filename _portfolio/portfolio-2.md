@@ -23,12 +23,12 @@ Sep 2022 - Present
 src="https://www.youtube.com/embed/EfACmy3D3ps">
 </iframe>
 
-* The Golem system which includes golems spawning, evolution, and emotion handling. Golems start out as a Baby, and evolve into a Grown-up when they max out their happiness meter. Players can assign task to a Grown-up can golems to help building their garden.  
+* The Golem system includes golems spawning, evolution, emotion handling and task action. Golems start out as a Baby, and evolve into a Grown-up when they max out their happiness meter. Players can assign task to a Grown-up can golems to help building their garden.  
 * I developed and provided the emotion and exressions handling APIs to other engineers in the team. The APIs follows Publish–subscribe pattern. My engineering peers, who worked for UI and dialogue, can easily update a golem's emotion and expression in a decoupling manner.
 
 ### Building Our Character Production Pipeline
 <img src = '/images/CHApipeline.png'><br/>
-Working closely with our artists and other engineers, I am responsible for building our characters production pipeline. Our game has a variety of lovely characters including Grandma, Shopkeepers, and Golems. My role involves coordinating with team members across various stages of the pipeline, so that everyone can work in parallel and deliver content faster.
+* Working closely with our artists and other engineers, I am responsible for building our characters production pipeline. Our game has a variety of lovely characters including Grandma, Shopkeepers, and Golems. My role involves coordinating with team members across various stages of the pipeline, so that everyone can work in parallel and deliver content faster.
 
 ### Golem Behaviors
 <center><img src='/images/npbehave_window.png'><br/></center>
