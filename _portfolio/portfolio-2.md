@@ -10,7 +10,7 @@ collection: portfolio
     </center>
 </body>
 
-Grandma Green is a 2D simulation game developed by a team of ~20 USC students. Currently, the game is in the beta stage. I am the Gameplay AI Engineer in the team, where I mainly worked on the AI system of our plant friends. I also supported the development of our player character control and NPC interactions.  
+Grandma Green is a 2D simulation game developed by a team of ~20 USC students. Currently, the game is in the beta stage. I am the Gameplay AI Engineer in the team, where I mainly worked on the AI system of our plant friends "golems". I also supported the development of our player character control and NPC interactions. Besides gameplay features, I am also responsible for maintaining some dev tools in our project, including AI tools Event Manager in our project. 
 
 ### Tech Stack
 Unity, C#, Behavior Tree, State Machine
@@ -20,7 +20,7 @@ Sep 2022 - Present
 
 ### Creating Our Plant Friends
 <iframe width="480" height="270"
-src="https://www.youtube.com/embed/EfACmy3D3ps">
+src="https://www.youtube.com/embed/EfACmy3D3ps&autoplay=1">
 </iframe>
 
 * The Golem system includes golems spawning, evolution, emotion handling and task action. Golems start out as a Baby, and evolve into a Grown-up when they max out their happiness meter. Players can assign task to a Grown-up can golems to help building their garden.  
@@ -30,7 +30,9 @@ src="https://www.youtube.com/embed/EfACmy3D3ps">
 <img src = '/images/CHApipeline.png'><br/>
 * Working closely with our artists and other engineers, I am responsible for building our characters production pipeline. Our game has a variety of lovely characters including Grandma, Shopkeepers, and Golems. My role involves coordinating with team members across various stages of the pipeline, so that everyone can work in parallel and deliver content faster.
 
-### Golem Behaviors
-<center><img src='/images/npbehave_window.png'><br/></center>
-* I implemented Golems' interaction and behaviors using Behavior Tree. Besides AI tools, I am also responsible for maintaining Event Manager in our project. 
+### Golems Interaction and Behaviors
+<iframe width="480" height="270"
+src="https://www.youtube.com/embed/wUzI3ZM0hH4">
+</iframe>
+* I implemented Golems' interaction and behaviors using Behavior Tree. Players can tap to talk to a golem or drag to move a golem. 
 * To achieve golem watering action, I created a CrowdController to communicate with Garden Controller to get plants which need to be watered. CrowdController will schedule and assign tasks to each single valid golem. 
