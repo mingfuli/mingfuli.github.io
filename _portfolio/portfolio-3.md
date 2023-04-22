@@ -6,7 +6,7 @@ collection: portfolio
 ---
 
 <iframe width="480" height="270"
-src="https://www.youtube.com/embed/aFLzpxjzieY&autoplay=1">
+src="https://www.youtube.com/embed/aFLzpxjzieY&autoplay=1" &autoplay=1>
 </iframe>
 
 This NavMesh Pathfinder is built in [Prime Engine](https://sites.google.com/site/artemscode/primeengine) (a custom engine developed by Artem Kovalovs). I imported a triangulated NavMesh from Maya into the Engine and implemented A* algorithm as pathfinder. I also developed a third-person character controller and camera. Lastly, I implemented some AI behaviours to make it a hide-and-seek mini game.
