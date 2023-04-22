@@ -20,7 +20,7 @@ Sep 2022 - Present
 
 ### Creating Our Plant Friends
 <iframe width="480" height="270"
-src="https://www.youtube.com/embed/EfACmy3D3ps" &autoplay=1>
+src="https://www.youtube.com/embed/EfACmy3D3ps?&autoplay=1">
 </iframe>
 
 * The Golem system includes golems spawning, evolution, emotion handling and task action. Golems start out as a Baby, and evolve into a Grown-up when they max out their happiness meter. Players can assign task to a Grown-up can golems to help building their garden.  
