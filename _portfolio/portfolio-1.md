@@ -21,8 +21,8 @@ May 2022 to Aug 2022 (3 months)
 
 ### Weapon Inventory
 <img src='/images/farlight_weapon1_small.png'>
-* Collabrating with our UI/UX designers, I implemented the logic of our new weapon inventory design. 
-* I developed multiple new features for weapons and their skins which are on sale or available in live events. For instance, I iterated the sorting rules for the weapon inventory.
+* Collabrating with our UI/UX designers, I implemented the logic of our new weapon inventory design. For instance, I iterated the sorting rules for the weapon inventory.
+* I also developed multiple new features for weapons and their skins which are on sale or available in live events.  
 
 ### Custom Match Lobby
 <img src='/images/farlight_room_small.png'><br/>
