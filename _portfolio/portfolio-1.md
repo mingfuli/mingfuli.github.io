@@ -8,9 +8,8 @@ collection: portfolio
 ### Official Trailer
 
 <iframe width="480" height="270"
-src="https://www.youtube.com/embed/OGudj7-oZo4?
-&autoplay=1"frameborder="0"
-allowfullscreen></iframe>
+src="https://www.youtube.com/embed/OGudj7-oZo4?&autoplay=1">
+</iframe>
 
 Farlight 84 is a shooter game developed and published by Lilith Games. The game launched in selected regions in 2022 and launched globally this year. I was a Game Client Engineer Intern in the team. During my internship, I mainly worked on live content support.
 

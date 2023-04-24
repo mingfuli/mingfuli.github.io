@@ -20,9 +20,8 @@ Sep 2022 - Present
 
 ### Creating Our Plant Friends
 <iframe width="480" height="270"
-src="https://www.youtube.com/embed/EfACmy3D3ps?
-&autoplay=1"frameborder="0"
-allowfullscreen></iframe>
+src="https://www.youtube.com/embed/EfACmy3D3ps?&autoplay=1">
+</iframe>
 
 * The Golem system includes golems spawning, evolution, emotion handling and task action. Golems start out as a Baby, and evolve into a Grown-up when they max out their happiness meter. Players can assign task to a Grown-up can golems to help building their garden.  
 * I developed and provided the emotion and exressions handling APIs to other engineers in the team. The APIs follows Publish–subscribe pattern. My engineering peers, who worked for UI and dialogue, can easily update a golem's emotion and expression in a decoupling manner.
