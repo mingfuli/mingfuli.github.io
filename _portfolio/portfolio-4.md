@@ -1,25 +1,26 @@
 ---
-title: "Project: Precious Stones"
-excerpt: "<img src='/images/project_mp_banner.png'><br/><i>Gameplay AI Engineer / C# / Unity<i>"
+title: "Precious Stones"
+excerpt: "<img src='/images/pslogo.png'><br/><i>Gameplay AI Engineer / C# / Unity<i>"
 author_profile: false
 collection: portfolio
 ---
 
 <iframe width="480" height="270"
-    src="https://www.youtube.com/embed/26ij_otV9c8?&autoplay=1">
+    src="https://www.youtube.com/embed/LrqN4CskK_g?&autoplay=1">
 </iframe>
 
-Project: Precious Stones is a 3D action-adventure game developed by a team of 6. I am one of the two Engineers in the team and collaborate with four composors from Berklee College of Music. Currently, our game just passed the pre-production stage where we created the 3C of our game and a "beautiful corner" of the fantasy world. Stay tuned for more information!
+Precious Stones is a 3D action-adventure game developed by a team of 6. I am one of the two Engineers in the team and collaborate with four composors from Berklee College of Music. Players play as a dwarf who starts an adventure following his father’s wishes and uses his beloved hammer to defeat monsters and solve interesting puzzles.
+
 
 ### Tech Stack
-Unity, C#, Behavior Tree, Navmesh
+Unity, C#, Behavior Tree, Navigation
 
 ### Development Time
 Jan 2023 - Present
 
 ### Gameplay 
-* I am developing the mechanism, physics and movement of our uniquely designed weapon
-* I designed a scalable system for our key-lock mechanism in the dungeons by ScriptableObject architecture
+* I developed the mechanism, physics and movement of our uniquely designed weapon
+* I designed a scalable system for our key-lock mechanism in the dungeon by ScriptableObject architecture
 
 ### AI
-* I am implementing enemies’ navigation, combat, and behaviors
+* I implemented enemies’ navigation, combat, and behaviors
