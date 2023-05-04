@@ -1,6 +1,6 @@
 ---
 title: "Precious Stones"
-excerpt: "<img src='/images/pslogo.png'><br/><i>Gameplay AI Engineer / C# / Unity<i>"
+excerpt: "<img src='/images/gimbo_banner.png'><br/><i>Gameplay AI Engineer / C# / Unity<i>"
 author_profile: false
 collection: portfolio
 ---
