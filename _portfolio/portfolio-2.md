@@ -10,7 +10,7 @@ collection: portfolio
     </center>
 </body>
 
-Grandma Green is a 2D simulation game developed by a team of ~20 USC students. Currently, the game is in the beta stage. I am the Gameplay AI Engineer in the team, where I mainly worked on the AI system of our plant friends "golems". I also supported the development of our player character control and NPC interactions. Besides gameplay features, I am also responsible for maintaining some dev tools in our project, including AI tools Event Manager in our project. 
+Grandma Green is a 2D simulation game developed by a team of ~20 USC students. I am the Gameplay AI Engineer in the team, where I mainly worked on the AI system of our plant friends "golems". I also supported the development of our player character control and NPC interactions. Besides gameplay features, I am also responsible for maintaining some dev tools in our project, including AI tools Event Manager in our project. 
 
 ### Tech Stack
 Unity, C#, Behavior Tree, State Machine
